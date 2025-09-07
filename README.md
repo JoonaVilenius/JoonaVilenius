@@ -1,7 +1,7 @@
 ## Hi there 👋
 -  I’m currently working on car detailing.
--  I’m currently studying IT.
--  Ask me about Cars, detailing.
+-  I’m studying ICT at LAB University of applied sciences.
+-  I'm a BMW enthusiast.
 <!--
 **JoonaVilenius/JoonaVilenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
