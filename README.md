@@ -1,6 +1,6 @@
 ## Hi there 👋
--  Name: Joona Vilenius
--  Age : 27.
+-  Name: Joona Vilenius 🫡
+-  Age : 27 ♂️
 -  Lahti, Finland 🇫🇮.
 -  I’m currently working on car detailing ⭐.
 -  I’m studying ICT at LAB University of applied sciences 👨‍🎓🎓
